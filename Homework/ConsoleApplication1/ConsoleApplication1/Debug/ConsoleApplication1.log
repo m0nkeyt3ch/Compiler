@@ -1,2 +1,3 @@
 ﻿  ConsoleApplication1.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\Michael\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(142): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  ConsoleApplication1.vcxproj -> H:\GitHub\Compiler\Homework\ConsoleApplication1\Debug\ConsoleApplication1.exe

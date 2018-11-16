@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4651: '/D_CONSOLE' specified for precompiled header but not for current compile
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4651: '/D_UNICODE' specified for precompiled header but not for current compile
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4651: '/DUNICODE' specified for precompiled header but not for current compile
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4651: '/D_DEBUG' specified for precompiled header but not for current compile
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(10): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(38): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(78): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(197): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(198): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(199): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(200): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(201): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(202): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(203): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(204): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(205): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(206): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(207): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(208): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(209): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(229): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(230): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(234): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+h:\github\compiler\homework\consoleapplication1\consoleapplication1\consoleapplication1.cpp(235): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  h:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
