@@ -1,8 +1,8 @@
 program project1;
 
-var x,y,m;
+var x;
 var z;
-vra p;
+var y;
 const a=2,b=5,c=3;
 
 procedure message;
