@@ -1,0 +1,86 @@
+Input pl/0 file ?y
+0 var x,y,z;
+
+1 const a=2,b=5,c=3;
+
+1 procedure message;
+
+1  begin
+
+3   write(a);
+
+6  end;
+
+7 procedure add;
+
+7 var i;
+
+8  begin
+
+9   i := a + b;
+
+13     write(i);
+
+16   end;
+
+17 procedure minus;
+
+17 var j;
+
+18  begin
+
+19   j := b - c;
+
+23     write(l);
+
+25  end;    
+
+26 begin
+
+27      y:=1;
+
+29      read(x);
+
+31      if x > y
+
+33      then
+
+34      begin
+
+35            call add;
+
+36            y := y * 2;
+
+40            write(y);
+
+43      end;
+
+43        x := x - a;
+
+47        if odd x
+
+48        then
+
+49        begin
+
+50             call message;
+
+51             z := x * (6 / 2);
+
+57             write(z);
+
+60        end;
+
+60 call minus;
+
+61 while x > 0 
+
+63 do
+
+65   x:= x - 1;
+
+70 write(b);
+
+73 write(x);
+
+76 end.
