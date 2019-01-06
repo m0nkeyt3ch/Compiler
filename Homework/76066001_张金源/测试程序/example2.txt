@@ -1,0 +1,20 @@
+var      b , c ;
+const  a = 10 ;
+procedure p;
+      begin
+             c := b + a ;
+             
+      end;
+      
+begin
+	read(b) ;
+	write(b) ;
+        write(2+3*4-1) ;                
+	if  b = 0  then                 
+	    begin
+	         read(b) ;
+	         write(c)
+	    end ;
+                 call p ; 
+  
+end.	

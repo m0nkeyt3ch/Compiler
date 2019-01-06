@@ -1,0 +1,11 @@
+Input pl/0 file ?y
+0 
+
+0 var a,b,c;
+
+1 CONST d=10;
+
+3 proCEdure swap;
+
+3 var a,b,c,d;
+

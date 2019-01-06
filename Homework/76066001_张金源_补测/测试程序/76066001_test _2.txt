@@ -1,0 +1,43 @@
+Var x,y,Result;
+const a=2,b=5,c=3;
+procedure message;
+ 
+  write(a);
+ end;
+procedure add;
+var i;
+ begin
+  i := a + b;
+    write(i);
+  end;
+procedure minus;
+var j;
+ begin
+  j := b - c;
+    write(l);
+ end;    
+begin
+     y:=1;
+     read(x);
+     if x > y
+     then
+     begin
+           call add;
+           y := y * 2;
+           write(y);
+     end;
+       x := x - a;
+       if odd x
+       then
+       begin
+            call message;
+            z := x * (6 / 2);
+            write(z);
+       end;
+call minus;
+while x > 0 
+do
+  x:= x - 1;
+write(b);
+write(x);
+end.

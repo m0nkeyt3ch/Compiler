@@ -1,0 +1,7 @@
+var b;
+const a = 99999999;
+begin
+ read(b);
+ if odd b then
+  write(111)
+end.

@@ -252,7 +252,7 @@ int getch()
 int getsym()
 {
 	int i, j, k;
-	while (ch == ' ' || ch == 10 || ch == 9)
+	while (ch == ' ' || ch == 10 || ch == 9 || ch == '\t' || ch == '\n')
 	{
 		getchdo;
 	}

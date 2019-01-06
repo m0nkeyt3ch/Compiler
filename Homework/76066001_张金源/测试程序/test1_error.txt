@@ -1,0 +1,18 @@
+
+var a,b,c,d;
+CONST d=10;
+proCEdure swap;
+var a,b,c,d;
+begin
+a := 3;
+write(a,3,4);
+end;
+begin
+ read(b);
+ read(a,c);
+
+ c:=a+B;
+call swap;
+ if c>15 then
+ wrIte(a,b,c);
+end.

@@ -1,0 +1,6 @@
+var b;
+begin
+ read(b);
+ if odd b then
+  write(111);
+end.
